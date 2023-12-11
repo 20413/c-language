@@ -1,3 +1,2 @@
 ﻿  solution.c
-C:\Users\user2\Desktop\GitHub\c-language\program\solution.c(30,8): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
   program.vcxproj -> C:\Users\user2\Desktop\GitHub\c-language\program\x64\Debug\program.exe
