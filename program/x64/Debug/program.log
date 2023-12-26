@@ -1,5 +1,2 @@
 ﻿  solution.c
-C:\Users\user2\Desktop\GitHub\c-language\program\solution.c(22,6): error C2371: 'main': 재정의. 기본 형식이 다릅니다.
-  C:\Users\user2\Desktop\GitHub\c-language\program\solution.c(13,5):
-  'main' 선언을 참조하십시오.
-  
+  program.vcxproj -> C:\Users\user2\Desktop\GitHub\c-language\program\x64\Debug\program.exe
